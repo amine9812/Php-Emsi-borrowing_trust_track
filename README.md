@@ -7,7 +7,9 @@ This project was built by :
 - **Itmine mehdi** 
 
 > Module/Context: **PhP PROJECT**
-> [Uploading Screencast from 2026-01-12 12-54-23 (2).webm…]()
+## Demo
+![App demo](borrowing-track-app-demo.gif)
+
 
 # Borrower Trust Score (BTS)
 
