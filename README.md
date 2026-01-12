@@ -2,11 +2,11 @@
 
 This project was built by :
 
-- **[Zine Mohamed Amine]** 
-- **[Ghaout Khalid]** 
-- **[Itmine mehdi]** 
+- **Zine Mohamed Amine** 
+- **Ghaout Khalid** 
+- **Itmine mehdi** 
 
-> Module/Context: **[PhP PROJECT]** 
+> Module/Context: **PhP PROJECT** 
 # Borrower Trust Score (BTS)
 
 A small PHP 8 + SQLite app to track borrowed items and compute a transparent trust score per borrower.
