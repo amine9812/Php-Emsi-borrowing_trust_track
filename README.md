@@ -1,5 +1,17 @@
 # Borrower Trust Score (BTS) - Laravel Edition
 
+## Built by
+
+- Zine Mohamed Amine
+- Ghaout Khalid
+- Itmine Mehdi
+
+> Module/Context: PhP PROJECT
+
+## Demo
+
+![App demo](borrowing-track-app-demo.gif)
+
 A Laravel 12 + SQLite app to track borrowed items and compute transparent trust scores per borrower.
 
 ## Requirements
