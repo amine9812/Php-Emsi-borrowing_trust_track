@@ -63,5 +63,5 @@ All score changes are logged in the Trust Events table and visible on the borrow
 
 ## Notes
 
-- The original plain-PHP version is preserved in `legacy/`.
+- The original plain-PHP version is preserved in `borrower_track/`.
 - Laravel uses Blade templates which escape output by default to prevent XSS.
